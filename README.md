@@ -1,4 +1,4 @@
-# Digital Image Processing Homework 2
+# Digital Image Processing Homework 2 
 
 There are two parts in this homework, each part is divided into two parts, a and b:
 
